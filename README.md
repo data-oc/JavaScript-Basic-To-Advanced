@@ -36,7 +36,7 @@ code .
 
 7. Authenticate with GitHub using HTTPS
 - Git will prompt you for your GitHub username and password (or Personal Access Token).
-- To generate a Personal Access Token, go to GitHub > Settings > Developer Settings > Personal Access Tokens.
+- To generate a Personal Access Token, go to GitHub -> Settings -> Developer Settings -> Personal Access Tokens.
 
 8. Check the current branch
 ```bash
