@@ -1,4 +1,4 @@
-# JavaScript Basic to Advanced
+# JavaScript & TypeScript: Basic to Advanced
 
 ## How do I prepare the initial setups for this project?
 
